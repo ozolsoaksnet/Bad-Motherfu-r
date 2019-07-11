@@ -72,5 +72,14 @@ div.bgimage {
     text-decoration-color: aliceblue;
 }
 
+.whatdo img {
+    display: block;
+    margin-top: -2500px;
+    margin-left: 400px;
+}
 
+.badmf {
+    display: block;
+    margin-top: -300px;
+    margin-left: 700px;
 }
