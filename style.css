@@ -54,3 +54,23 @@ div.bgimage {
     background-size: cover;
     max-width: 1480px;
 }
+
+.line {
+    margin: 200px 4000px 3000px 400px;
+}
+
+.boutme {
+    vertical-align: middle;
+    line-height: 15px;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    top: 1030px;
+    left: 302px;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    text-decoration-color: aliceblue;
+}
+
+
+}
