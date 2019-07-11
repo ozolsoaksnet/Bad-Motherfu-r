@@ -1,26 +1,56 @@
 .blockquote {
     text-align: center;
-vertical-align: middle;
-line-height: 50px; 
-text-size-adjust: 20px;
-position: absolute;
-font-family: 'Montserrat', sans-serif;
-top: 400px;
-left: 500px;
-font-size: 40px;
-font-weight: 100;
-text-align: center;
-text-decoration-color: aliceblue;
+    vertical-align: middle;
+    line-height: 50px;
+    text-size-adjust: 20px;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    top: 400px;
+    left: 500px;
+    font-size: 40px;
+    font-weight: 100;
+    text-align: center;
+    text-decoration-color: aliceblue;
 }
+
 .wrapper {
     width: 100%;
     max-width: 1080px;
     margin: 0 auto;
-    
 }
+
 .about-me {
     display: block;
-    margin-top: -800px; 
+    margin-top: -800px;
 }
-body { background: #000000 !important;
+
+body {
+    background: #000000 !important;
+}
+
+.txt-me {
+    vertical-align: middle;
+    line-height: 15px;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    top: 1200px;
+    left: 50px;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    text-decoration-color: aliceblue;
+}
+
+.ljack img {
+    float: right;
+}
+
+.ljack {
+    margin: 0px 0px 0px 0px;
+}
+
+div.bgimage {
+    content: url(https://i.imgur.com/LOtbePX.jpg);
+    background-size: cover;
+    max-width: 1480px;
 }
